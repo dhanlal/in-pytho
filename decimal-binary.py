@@ -33,6 +33,10 @@ def psuedoBinary(n):
  
 n = 21; 
 psuedoBinary(n); 
-  
-# This code is contributed 
-# by mits. 
+
+#input 21
+#output 10 11
+#exaplanation 10+11=21
+#input 4
+#output 1111
+#exaplanation 1+1+1+1=4
